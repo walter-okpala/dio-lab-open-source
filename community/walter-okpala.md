@@ -1,7 +1,7 @@
 
 # Sobre mim
 
-Olá, sou o Walter! Atualmente atuo como **Analista de implantação na Linx**, sendo responsável por implantar todos os módulos do ERP e-Millennium, **manipulando APIs**, **capacitando clientes** e **desenvolvendo customizações** no sistema quando necessário. 
+Olá, sou o Walter! Atualmente atuo como **Analista de implantação de sistemas**, sendo responsável por implantar todos os módulos do ERP e-Millennium, **manipulando APIs**, **capacitando clientes** e **desenvolvendo customizações** no sistema quando necessário. 
 Também exerço como profissional, o desenvolvimento de Dashboards utilizando **Power BI** como ferramenta.
 
 Gosta de aprender, sou disposto a desenvolver novas habilidades e **não hesito em _enfrentar desafios_.**
